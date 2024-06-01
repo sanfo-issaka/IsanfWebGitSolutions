@@ -4,6 +4,5 @@ public UserEntity {
     private String lastName;
     private int age;
     private String email;
-    private String phoneNumber;
 
 }
